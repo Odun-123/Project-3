@@ -21,3 +21,4 @@ npm install dotenv
 
 Now create a file index.js with the command below
 
+![package jason file](https://user-images.githubusercontent.com/117018714/200189307-ad98ff79-4f22-4756-b1d6-af6d0a351b60.PNG)
