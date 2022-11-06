@@ -1,1 +1,3 @@
+# SIMPLE TO-DO APPLICATION ON MERN WEB STACK
+Step 0 Creating EC2 instance on AWS
 
