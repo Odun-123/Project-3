@@ -11,3 +11,4 @@ sudo apt-get install -y nodejs
 
 Verification of the node installation with the command node -v, npm -v
 
+![Node -v and npm -v](https://user-images.githubusercontent.com/117018714/200188417-05f561fa-cc15-4d40-af88-0ee552bda2f3.PNG)
